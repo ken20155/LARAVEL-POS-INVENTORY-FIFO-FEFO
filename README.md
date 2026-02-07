@@ -1,4 +1,4 @@
-![POS](2.png)
+![POS](3.png)
 
 POS-INVENTORY-FIFO-FEFO
 
