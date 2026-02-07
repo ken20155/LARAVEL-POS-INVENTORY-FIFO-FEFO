@@ -1,3 +1,5 @@
+![POS](2.png)
+
 POS-INVENTORY-FIFO-FEFO
 
 (Point of Sale & Inventory Management System)
