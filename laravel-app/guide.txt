@@ -1,0 +1,2 @@
+How to run:
+Open .env file then change APP_URL = 'YOUR PROJECT PATH DESTINATION'
